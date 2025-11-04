@@ -27,7 +27,3 @@ This project demonstrates a **Natural Language Processing (NLP)-based Billing Sy
     python billing_system.py
     ```
 
-## Example Input and Output
-
-### Example 1:
-**Input:**
